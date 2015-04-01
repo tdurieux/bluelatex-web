@@ -1,0 +1,8 @@
+plugins:
+  - angular
+
+globals:
+    angular: true
+
+rules:
+    angular/ng_di: [2, 'array']
